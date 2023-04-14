@@ -1,2 +1,3 @@
-# Jansen-Kalyano-Tan-11-IPS-ICT
-ini adalah ulangan saya
+### [Photography Portfolio Website](https://youtu.be/qKBLkcMj75M)
+
+![](./thumbnail.jpg)
